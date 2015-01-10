@@ -22,7 +22,7 @@ scripts to work.
 
 #### all datasets
 
-*** Creates all csv files and datapackage.json ***
+***Creates all csv files and datapackage.json***
 
 Run python script:
 
