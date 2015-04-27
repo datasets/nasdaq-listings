@@ -16,27 +16,22 @@
 import pandas as pd
 import json
 
-PACKAGE_NAME = 'nasdaq-nyse-listings'
-PACKAGE_TITLE = 'Nasdaq and NYSE Listings'
+PACKAGE_NAME = 'nasdaq-listings'
+PACKAGE_TITLE = 'Nasdaq Listings'
 
 nasdaq_listing = 'ftp://ftp.nasdaqtrader.com/symboldirectory/nasdaqlisted.txt'# Nasdaq only
-other_listings = 'ftp://ftp.nasdaqtrader.com/symboldirectory/otherlisted.txt' # NYSE and other exchanges
 
 
 def process():
     nasdaq = pd.read_csv(nasdaq_listing,sep='|')
-    other =  pd.read_csv(other_listings,sep='|')
 
     nasdaq = _clean_data(nasdaq)
-    other = _clean_data(other)
 
     # Create a few other data sets
     nasdaq_symbols = nasdaq[['Symbol','Company Name']] # Nasdaq  w/ 2 columns
-    nyse = other[other['Exchange'] == 'N'][['ACT Symbol','Company Name']] # NYSE Only
 
     # (dataframe, filename) datasets we will put in schema & create csv
-    datasets = [(nasdaq,'nasdaq-listed'), (nasdaq_symbols,'nasdaq-listed-symbols'),
-                (nyse,'nyse-listed'), (other, 'other-listed')]
+    datasets = [(nasdaq,'nasdaq-listed'), (nasdaq_symbols,'nasdaq-listed-symbols')]
 
     for df, filename in datasets:
         df.to_csv('data/' + filename + '.csv', index=False)
