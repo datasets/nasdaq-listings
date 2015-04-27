@@ -1,12 +1,11 @@
-List of companies in the NASDAQ, NYSE, and other exchanges.
+List of companies in the NASDAQ exchanges.
 
 ## Data
 
 Data and documentation are available on [NASDAQ's official webpage](http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs). Data is updated regularly on the FTP site.
 
-Two files are used in this repository:
+The file used in this repository:
 * [NASDAQ Listed Securities](ftp://ftp.nasdaqtrader.com/symboldirectory/nasdaqlisted.txt)
-* [Other Exchanges Listed Securities](ftp://ftp.nasdaqtrader.com/symboldirectory/otherlisted.txt)
 
 Notes:
 
