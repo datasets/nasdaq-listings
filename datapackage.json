@@ -1,6 +1,6 @@
 {
-    "title": "Nasdaq Listings"
-       "sources": [{
+    "title": "Nasdaq Listings",
+    "sources": [{
         "name": "NASDAQ official page",
         "web": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs"
     }],
