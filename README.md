@@ -12,7 +12,7 @@ Notes:
 * Company Name is a parsed field using the Security Name field.
 * Test Listings are excluded in the final dataset
 
-### Preparation
+## Preparation
 
 You need python plus pandas library tool installed to run the
 scripts. You also probably need to be on Linux/Unix or Mac for the shell
@@ -30,4 +30,6 @@ Run python script:
 
 ## License
 
-All data is licensed under ***????***. All code is licensed under the MIT/BSD license.
+This Data Package is licensed by its maintainers under the [Public Domain Dedication and License (PDDL)](http://opendatacommons.org/licenses/pddl/1.0/).
+
+Refer to the [Copyright notice](http://www.nasdaqtrader.com/Trader.aspx?id=CopyDisclaimMain) of the source dataset for any specific restrictions on using these data in a public or commercial product. Copyright © 2010, The NASDAQ OMX Group, Inc. All rights reserved.
