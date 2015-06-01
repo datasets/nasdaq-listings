@@ -1,6 +1,15 @@
 {
-    "license": "",
-    "name": "nasdaq-nyse-listings",
+    "title": "Nasdaq Listings"
+       "sources": [{
+        "name": "NASDAQ official page",
+        "web": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs"
+    }],
+    "licenses": [{
+        "id": "odc-pddl",
+        "url": "http://opendatacommons.org/licenses/pddl/",
+        "name": "Public Domain Dedication and License"
+    }],
+    "name": "nasdaq-listings",
     "resources": [
         {
             "format": "csv",
@@ -67,6 +76,5 @@
                 ]
             }
         }
-    ],
-    "title": "Nasdaq Listings"
+    ]
 }
