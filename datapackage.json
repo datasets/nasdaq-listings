@@ -2,12 +2,13 @@
     "title": "Nasdaq Listings",
     "sources": [{
         "name": "NASDAQ official page",
-        "web": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs"
+        "path": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs",
+        "title": "NASDAQ official page"
     }],
     "licenses": [{
         "id": "odc-pddl",
-        "url": "http://opendatacommons.org/licenses/pddl/",
-        "name": "Public Domain Dedication and License"
+        "path": "http://opendatacommons.org/licenses/pddl/",
+        "title": "Public Domain Dedication and License"
     }],
     "name": "nasdaq-listings",
     "resources": [
