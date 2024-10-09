@@ -55,7 +55,7 @@ ACON,"Aclarion, Inc. - Common Stock"
 ACONW,"Aclarion, Inc. - Warrant"
 ACRS,"Aclaris Therapeutics, Inc. - Common Stock"
 ACRV,"Acrivon Therapeutics, Inc. - Common Stock"
-ACST,"Acasti Pharma, Inc.  - Class A Common Stock"
+ACST,"Acasti Pharma, Inc.  - Common Stock"
 ACT,"Enact Holdings, Inc. - Common Stock"
 ACTG,Acacia Research Corporation - Common Stock
 ACTU,"Actuate Therapeutics, Inc. - Common stock"
@@ -670,7 +670,9 @@ BSCX,Invesco BulletShares 2033 Corporate Bond ETF
 BSCY,Invesco BulletShares 2034 Corporate Bond ETF
 BSET,"Bassett Furniture Industries, Incorporated - Common Stock"
 BSFC,Blue Star Foods Corp. - Common stock
+BSII,Black Spade Acquisition II Co - Class A Ordinary Share
 BSIIU,Black Spade Acquisition II Co - unit
+BSIIW,Black Spade Acquisition II Co - Warrant
 BSJO,Invesco BulletShares 2024 High Yield Corporate Bond ETF
 BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF
 BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF
@@ -933,6 +935,7 @@ CLDX,"Celldex Therapeutics, Inc. - Common Stock"
 CLEU,China Liberal Education Holdings Limited - Ordinary Shares
 CLFD,"Clearfield, Inc. - Common Stock"
 CLGN,CollPlant Biotechnologies Ltd. - Ordinary Shares
+CLIK,Click Holdings Limited - Ordinary Share
 CLIR,ClearSign Technologies Corporation - Common Stock
 CLLS,Cellectis S.A. - American Depositary Shares
 CLMB,"Climb Global Solutions, Inc. - Common Stock"
@@ -1293,6 +1296,7 @@ DWAS,Invesco Dorsey Wright SmallCap Momentum ETF
 DWAW,AdvisorShares Dorsey Wright FSM All Cap World ETF
 DWSH,AdvisorShares Dorsey Wright Short ETF
 DWSN,Dawson Geophysical Company - Common Stock
+DWTX,"Dogwood Therapeutics, Inc.  - Common Stock"
 DWUS,AdvisorShares Dorsey Wright FSM US Core ETF
 DXCM,"DexCom, Inc. - Common Stock"
 DXJS,WisdomTree Japan Hedged SmallCap Equity Fund
@@ -1762,7 +1766,6 @@ GBBKR,Global Blockchain Acquisition Corp. - Right
 GBBKW,Global Blockchain Acquisition Corp. - Warrant
 GBDC,"Golub Capital BDC, Inc. - Closed End Fund"
 GBIO,Generation Bio Co. - Common stock
-GBNY,"Generations Bancorp NY, Inc. - Common Stock"
 GCBC,"Greene County Bancorp, Inc. - Common Stock"
 GCMG,GCM Grosvenor Inc. - Class A Common Stock
 GCMGW,GCM Grosvenor Inc. - Warrant
@@ -2353,7 +2356,7 @@ JBHT,"J.B. Hunt Transport Services, Inc. - Common Stock"
 JBLU,JetBlue Airways Corporation - Common Stock
 JBSS,"John B. Sanfilippo & Son, Inc. - Common Stock"
 JCSE,JE Cleantech Holdings Limited - Ordinary Shares
-JCTCF,Jewett-Cameron Trading Company - Common Shares
+JCTC,Jewett-Cameron Trading Company - Common Shares
 JD,"JD.com, Inc. - American Depositary Shares"
 JDOC,JPMorgan Healthcare Leaders ETF
 JDZG,JIADE LIMITED - Common stock
@@ -2597,6 +2600,7 @@ LOVE,The Lovesac Company - Common Stock
 LPAA,Launch One Acquisition Corp. - Class A Ordinary Shares
 LPAAU,Launch One Acquisition Corp. - Unit
 LPAAW,Launch One Acquisition Corp. - Warrant
+LPBBU,Launch Two Acquisition Corp. - Unit
 LPCN,Lipocine Inc. - Common Stock
 LPLA,LPL Financial Holdings Inc. - Common Stock
 LPRO,Open Lending Corporation - Common Stock
@@ -3167,6 +3171,7 @@ OFS,OFS Capital Corporation - Closed End Fund
 OFSSH,OFS Capital Corporation - 4.95% Notes due 2028
 OGI,Organigram Holdings Inc. - Common Shares
 OKTA,"Okta, Inc. - Class A Common Stock"
+OKUR,"OnKure Therapeutics, Inc. - Class A Common Stock"
 OKYO,OKYO Pharma Limited - Ordinary Shares
 OLB,"The OLB Group, Inc. - Common Stock"
 OLED,Universal Display Corporation - Common Stock
@@ -3726,7 +3731,6 @@ RNAC,"Cartesian Therapeutics, Inc. - Common Stock"
 RNAZ,"TransCode Therapeutics, Inc. - Common Stock"
 RNEM,Emerging Markets Equity Select ETF
 RNEW,VanEck Green Infrastructure ETF
-RNLX,Renalytix plc - American Depositary Shares
 RNRG,Global X Renewable Energy Producers ETF
 RNSC,Small Cap US Equity Select ETF
 RNW,ReNew Energy Global plc - Class A Shares
@@ -3748,7 +3752,6 @@ ROP,"Roper Technologies, Inc. - Common Stock"
 ROST,"Ross Stores, Inc. - Common Stock"
 RPAY,Repay Holdings Corporation - Class A Common Stock
 RPD,"Rapid7, Inc. - Common Stock"
-RPHM,"Reneo Pharmaceuticals, Inc. - Class A Common Stock"
 RPID,"Rapid Micro Biosystems, Inc. - Class A Common Stock"
 RPRX,Royalty Pharma plc - Class A Ordinary Shares
 RPTX,Repare Therapeutics Inc. - Common Shares
@@ -3929,6 +3932,7 @@ SKGR,SK Growth Opportunities Corporation - Class A Common Stock
 SKGRU,SK Growth Opportunities Corporation - Unit
 SKGRW,SK Growth Opportunities Corporation - Warrant
 SKIN,The Beauty Health Company - Class A Common Stock
+SKK,SKK Holdings Limited - Common Stock
 SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund
 SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF
 SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock"
@@ -4321,7 +4325,6 @@ TRUG,"TruGolf Holdings, Inc. - Class A Common Stock"
 TRUP,"Trupanion, Inc. - Common Stock"
 TRVG,trivago N.V. - American Depositary Shares
 TRVI,"Trevi Therapeutics, Inc. - Common Stock"
-TRVN,"Trevena, Inc. - Common Stock"
 TSAT,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares
 TSBK,"Timberland Bancorp, Inc. - Common Stock"
 TSBX,Turnstone Biologics Corp. - Common Stock
@@ -4520,7 +4523,6 @@ VINP,Vinci Partners Investments Ltd. - Class A Common Shares
 VIOT,"Viomi Technology Co., Ltd - American Depositary Shares"
 VIR,"Vir Biotechnology, Inc. - Common Stock"
 VIRC,Virco Manufacturing Corporation - Common Stock
-VIRI,"Virios Therapeutics, Inc. - Common Stock"
 VIRT,"Virtu Financial, Inc. - Class A Common Stock"
 VIRX,"Viracta Therapeutics, Inc. - Common Stock"
 VISL,"Vislink Technologies, Inc. - Common Stock"
@@ -4591,7 +4593,6 @@ VTC,Vanguard Total Corporate Bond ETF
 VTGN,"Vistagen Therapeutics, Inc. - Common Stock"
 VTHR,Vanguard Russell 3000 ETF
 VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares
-VTNR,"Vertex Energy, Inc - Common Stock"
 VTRS,Viatris Inc. - Common Stock
 VTSI,"VirTra, Inc. - Common Stock"
 VTVT,vTv Therapeutics Inc. - Class A Common Stock
@@ -4822,5 +4823,5 @@ ZXZZT,NASDAQ TEST STOCK
 ZYME,Zymeworks Inc. - Common Stock
 ZYXI,"Zynex, Inc. - Common Stock"
 ZZZ,Cyber Hornet S&P 500 and Bitcoin 75/25 Strategy ETF
-File Creation Time: 1004202421:31,
+File Creation Time: 1009202409:46,
 ,
