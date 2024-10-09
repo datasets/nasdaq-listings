@@ -1,95 +1,28 @@
-''' process.py
-
-    Grab stock listing data from Nasdaq FTP
-
-    - Downloads data from FTP
-    - Does some basic cleaning
-    - Creates 4 csv files:
-        (nasdaq full, nasdaq just symbol/names, all other, nyse only)
-    - Creates datapackage.json file w/ schema
-
-    Data Source: ftp://ftp.nasdaqtrader.com/symboldirectory/
-    Data Documentation: http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs
-
-    Author: Joe Hand
-'''
+import requests
 import pandas as pd
-import json
 
-PACKAGE_NAME = 'nasdaq-listings'
-PACKAGE_TITLE = 'Nasdaq Listings'
+NASDAQ_URL = 'https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt'
 
-nasdaq_listing = 'ftp://ftp.nasdaqtrader.com/symboldirectory/nasdaqlisted.txt'# Nasdaq only
+def transform_nasdaq_listed_symbol():
+    resp = requests.get(NASDAQ_URL)
 
+    data = resp.text.split('\n')
+    data = [row.split('|') for row in data]
+    df = pd.DataFrame(data[1:], columns=data[0])
 
-def process():
-    nasdaq = pd.read_csv(nasdaq_listing,sep='|')
+    # Transform data
+    df.columns = df.columns.str.replace('\r', '', regex=False)
+    df = df.map(lambda x: x.replace('\r', '') if isinstance(x, str) else x)
 
-    nasdaq = _clean_data(nasdaq)
-
-    # Create a few other data sets
-    nasdaq_symbols = nasdaq[['Symbol','Company Name']] # Nasdaq  w/ 2 columns
-
-    # (dataframe, filename) datasets we will put in schema & create csv
-    datasets = [(nasdaq,'nasdaq-listed'), (nasdaq_symbols,'nasdaq-listed-symbols')]
-
-    for df, filename in datasets:
-        df.to_csv('data/' + filename + '.csv', index=False)
-
-    with open("datapackage.json", "w") as outfile:
-        json.dump(_create_datapackage(datasets), outfile, indent=4, sort_keys=True)
-
-
-def _clean_data(df):
-    # TODO: do I want to save the file creation time (last row)
-    df = df.copy()
-    # Remove test listings
-    df = df[df['Test Issue'] == 'N']
-
-    # Create New Column w/ Just Company Name
-    df['Company Name'] = df['Security Name'].apply(lambda x: x.split('-')[0]) #nasdaq file uses - to separate stock type
-    #df['Company Name'] = TODO, remove stock type for otherlisted file (no separator)
-
-    # Move Company Name to 2nd Col
-    cols = list(df.columns)
-    cols.insert(1, cols.pop(-1))
-    df = df.ix[:, cols]
-
-    return df
-
-
-def _create_file_schema(df, filename):
-    fields = []
-    for name, dtype in zip(df.columns,df.dtypes):
-        if str(dtype) == 'object' or str(dtype) == 'boolean': # does datapackage.json use boolean type?
-            dtype = 'string'
-        else:
-            dtype = 'number'
-
-        fields.append({'name':name, 'description':'', 'type':dtype})
-
-    return {
-            'name': filename,
-            'path': 'data/' + filename + '.csv',
-            'format':'csv',
-            'mediatype': 'text/csv',
-            'schema':{'fields':fields}
-            }
-
-
-def _create_datapackage(datasets):
-    resources = []
-    for df, filename in datasets:
-        resources.append(_create_file_schema(df,filename))
-
-    return {
-            'name': PACKAGE_NAME,
-            'title': PACKAGE_TITLE,
-            'license': '',
-            'resources': resources,
-            }
-
-
+    # Create nasdaq_listed.csv and nasdaq_listed_symbol.csv
+    nasdaq_listed = df[['Symbol', 'Security Name']]
+    nasdaq_listed.to_csv('data/nasdaq-listed.csv', index=False)
+    nasdaq_listed_symbol = df
+    nasdaq_listed_symbol['Company Name'] = nasdaq_listed_symbol['Security Name'].str.split(' - ').str[0]
+    last_col = nasdaq_listed_symbol.pop(nasdaq_listed_symbol.columns[-1])
+    nasdaq_listed_symbol.insert(1, last_col.name, last_col)
+    nasdaq_listed_symbol.to_csv('data/nasdaq-listed-symbol.csv', index=False)
+    print('nasdaq-listed.csv and nasdaq-listed-symbols.csv saved.')
 
 if __name__ == '__main__':
-    process()
+    transform_nasdaq_listed_symbol()
