@@ -21,7 +21,7 @@ def transform_nasdaq_listed_symbol():
     nasdaq_listed_symbol['Company Name'] = nasdaq_listed_symbol['Security Name'].str.split(' - ').str[0]
     last_col = nasdaq_listed_symbol.pop(nasdaq_listed_symbol.columns[-1])
     nasdaq_listed_symbol.insert(1, last_col.name, last_col)
-    nasdaq_listed_symbol.to_csv('data/nasdaq-listed-symbol.csv', index=False)
+    nasdaq_listed_symbol.to_csv('data/nasdaq-listed-symbols.csv', index=False)
     print('nasdaq-listed.csv and nasdaq-listed-symbols.csv saved.')
 
 if __name__ == '__main__':
