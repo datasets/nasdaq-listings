@@ -55,7 +55,7 @@ ACON,"Aclarion, Inc. - Common Stock"
 ACONW,"Aclarion, Inc. - Warrant"
 ACRS,"Aclaris Therapeutics, Inc. - Common Stock"
 ACRV,"Acrivon Therapeutics, Inc. - Common Stock"
-ACST,"Acasti Pharma, Inc.  - Class A Common Stock"
+ACST,"Acasti Pharma, Inc.  - Common Stock"
 ACT,"Enact Holdings, Inc. - Common Stock"
 ACTG,Acacia Research Corporation - Common Stock
 ACTU,"Actuate Therapeutics, Inc. - Common stock"
@@ -496,7 +496,7 @@ BEEM,Beam Global - Common Stock
 BEEZ,Honeytree U.S. Equity ETF
 BELFA,Bel Fuse Inc. - Class A Common Stock
 BELFB,Bel Fuse Inc. - Class B Common Stock
-BELT,BlackRock Long-Term U.S. Equity ETF
+BELT,iShares Long-Term U.S. Equity Active ETF
 BENF,Beneficient - Class A Common Stock
 BENFW,Beneficient - Warrant
 BETR,Better Home & Finance Holding Company - Class A Common Stock
@@ -514,7 +514,7 @@ BGLC,BioNexus Gene Lab Corp - Common stock
 BGM,Qilian International Holding Group Ltd. - Class A Ordinary Shares
 BGNE,"BeiGene, Ltd. - American Depositary Shares"
 BGRN,iShares USD Green Bond ETF
-BGRO,BlackRock Large Cap Growth ETF
+BGRO,iShares Large Cap Growth Active ETF
 BHAC,Focus Impact BH3 Acquisition Company - Class A Common Stock
 BHACU,Focus Impact BH3 Acquisition Company - Units
 BHACW,Focus Impact BH3 Acquisition Company - Warrants
@@ -562,7 +562,7 @@ BLACW,Bellevue Life Sciences Acquisition Corp. - Warrant
 BLBD,Blue Bird Corporation - Common Stock
 BLBX,Blackboxstocks Inc. - Common Stock
 BLCN,Siren Nasdaq NexGen Economy ETF
-BLCR,BlackRock Large Cap Core ETF
+BLCR,iShares Large Cap Core Active ETF
 BLDE,"Blade Air Mobility, Inc. - Class A Common Stock"
 BLDEW,"Blade Air Mobility, Inc. - Warrants"
 BLDP,"Ballard Power Systems, Inc. - Common Shares"
@@ -637,7 +637,7 @@ BRACU,Broad Capital Acquisition Corp - Units
 BRAG,Bragg Gaming Group Inc. - Common Shares
 BREA,Brera Holdings PLC - Class B Ordinary Shares
 BRFH,Barfresh Food Group Inc. - Common Stock
-BRHY,BlackRock High Yield ETF
+BRHY,iShares High Yield Active ETF
 BRID,Bridgford Foods Corporation - Common Stock
 BRKH,BurTech Acquisition Corp. - Class A Common Stock
 BRKHU,BurTech Acquisition Corp. - Unit
@@ -652,7 +652,7 @@ BRNY,Burney U.S. Factor Rotation ETF
 BROG,Brooge Energy Limited  - Ordinary Shares
 BROGW,Brooge Energy Limited  - Warrant
 BRRR,Coinshares Valkyrie Bitcoin Fund
-BRTR,BlackRock Total Return ETF
+BRTR,iShares Total Return Active ETF
 BRTX,"BioRestorative Therapies, Inc. - Common Stock"
 BRY,Berry Corporation (bry) - Common Stock
 BRZE,"Braze, Inc. - Class A Common Stock"
@@ -670,7 +670,9 @@ BSCX,Invesco BulletShares 2033 Corporate Bond ETF
 BSCY,Invesco BulletShares 2034 Corporate Bond ETF
 BSET,"Bassett Furniture Industries, Incorporated - Common Stock"
 BSFC,Blue Star Foods Corp. - Common stock
+BSII,Black Spade Acquisition II Co - Class A Ordinary Share
 BSIIU,Black Spade Acquisition II Co - unit
+BSIIW,Black Spade Acquisition II Co - Warrant
 BSJO,Invesco BulletShares 2024 High Yield Corporate Bond ETF
 BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF
 BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF
@@ -752,8 +754,8 @@ CADL,"Candel Therapeutics, Inc. - Common Stock"
 CAFG,Pacer US Small Cap Cash Cows Growth Leaders ETF
 CAKE,The Cheesecake Factory Incorporated - Common Stock
 CALC,"CalciMedica, Inc. - Common Stock"
+CALI,iShares Short-Term California Muni Active ETF
 CALM,"Cal-Maine Foods, Inc. - Common Stock"
-CALY,BlackRock Short-Term California Muni Bond ETF
 CAMT,Camtek Ltd. - Ordinary Shares
 CAN,Canaan Inc. - American Depositary Shares
 CANC,Tema Oncology ETF
@@ -933,6 +935,7 @@ CLDX,"Celldex Therapeutics, Inc. - Common Stock"
 CLEU,China Liberal Education Holdings Limited - Ordinary Shares
 CLFD,"Clearfield, Inc. - Common Stock"
 CLGN,CollPlant Biotechnologies Ltd. - Ordinary Shares
+CLIK,Click Holdings Limited - Ordinary Share
 CLIR,ClearSign Technologies Corporation - Common Stock
 CLLS,Cellectis S.A. - American Depositary Shares
 CLMB,"Climb Global Solutions, Inc. - Common Stock"
@@ -940,7 +943,7 @@ CLMT,"Calumet, Inc - Common Stock"
 CLNE,Clean Energy Fuels Corp. - Common Stock
 CLNN,Clene Inc. - Common Stock
 CLNNW,Clene Inc. - Warrant
-CLOA,BlackRock AAA CLO ETF
+CLOA,iShares AAA CLO Active ETF
 CLOD,Themes Cloud Computing ETF
 CLOU,Global X Cloud Computing ETF
 CLOV,"Clover Health Investments, Corp.  - Class A Common stock"
@@ -1293,6 +1296,7 @@ DWAS,Invesco Dorsey Wright SmallCap Momentum ETF
 DWAW,AdvisorShares Dorsey Wright FSM All Cap World ETF
 DWSH,AdvisorShares Dorsey Wright Short ETF
 DWSN,Dawson Geophysical Company - Common Stock
+DWTX,"Dogwood Therapeutics, Inc.  - Common Stock"
 DWUS,AdvisorShares Dorsey Wright FSM US Core ETF
 DXCM,"DexCom, Inc. - Common Stock"
 DXJS,WisdomTree Japan Hedged SmallCap Equity Fund
@@ -1669,7 +1673,6 @@ FRPT,"Freshpet, Inc. - Common Stock"
 FRSH,Freshworks Inc. - Class A Common Stock
 FRST,Primis Financial Corp. - Common Stock
 FRSX,Foresight Autonomous Holdings Ltd. - American Depositary Shares
-FRZA,"Forza X1, Inc. - Common Stock"
 FSBC,Five Star Bancorp - Common Stock
 FSBW,"FS Bancorp, Inc. - Common Stock"
 FSCS,First Trust SMID Capital Strength ETF
@@ -1762,7 +1765,6 @@ GBBKR,Global Blockchain Acquisition Corp. - Right
 GBBKW,Global Blockchain Acquisition Corp. - Warrant
 GBDC,"Golub Capital BDC, Inc. - Closed End Fund"
 GBIO,Generation Bio Co. - Common stock
-GBNY,"Generations Bancorp NY, Inc. - Common Stock"
 GCBC,"Greene County Bancorp, Inc. - Common Stock"
 GCMG,GCM Grosvenor Inc. - Class A Common Stock
 GCMGW,GCM Grosvenor Inc. - Warrant
@@ -2003,7 +2005,6 @@ HLNE,Hamilton Lane Incorporated - Class A Common Stock
 HLP,Hongli Group Inc. - Ordinary Shares
 HLVX,"HilleVax, Inc. - Common Stock"
 HLXB,Helix Acquisition Corp. II - Class A Ordinary Shares
-HMNF,"HMN Financial, Inc. - Common Stock"
 HMST,"HomeStreet, Inc. - Common Stock"
 HNDL,Strategy Shares Nasdaq 7HANDL Index ETF
 HNNA,"Hennessy Advisors, Inc. - Common Stock"
@@ -2238,7 +2239,7 @@ INMD,InMode Ltd.  - Ordinary Shares
 INNV,InnovAge Holding Corp. - Common Stock
 INO,"Inovio Pharmaceuticals, Inc. - Common Stock"
 INOD,Innodata Inc. - Common Stock
-INRO,BlackRock U.S. Industry Rotation ETF
+INRO,iShares U.S. Industry Rotation Active ETF
 INSE,"Inspired Entertainment, Inc. - Common Stock"
 INSG,Inseego Corp. - Common Stock
 INSM,Insmed Incorporated - Common Stock
@@ -2353,7 +2354,7 @@ JBHT,"J.B. Hunt Transport Services, Inc. - Common Stock"
 JBLU,JetBlue Airways Corporation - Common Stock
 JBSS,"John B. Sanfilippo & Son, Inc. - Common Stock"
 JCSE,JE Cleantech Holdings Limited - Ordinary Shares
-JCTCF,Jewett-Cameron Trading Company - Common Shares
+JCTC,Jewett-Cameron Trading Company - Common Shares
 JD,"JD.com, Inc. - American Depositary Shares"
 JDOC,JPMorgan Healthcare Leaders ETF
 JDZG,JIADE LIMITED - Common stock
@@ -2597,6 +2598,7 @@ LOVE,The Lovesac Company - Common Stock
 LPAA,Launch One Acquisition Corp. - Class A Ordinary Shares
 LPAAU,Launch One Acquisition Corp. - Unit
 LPAAW,Launch One Acquisition Corp. - Warrant
+LPBBU,Launch Two Acquisition Corp. - Unit
 LPCN,Lipocine Inc. - Common Stock
 LPLA,LPL Financial Holdings Inc. - Common Stock
 LPRO,Open Lending Corporation - Common Stock
@@ -3167,6 +3169,7 @@ OFS,OFS Capital Corporation - Closed End Fund
 OFSSH,OFS Capital Corporation - 4.95% Notes due 2028
 OGI,Organigram Holdings Inc. - Common Shares
 OKTA,"Okta, Inc. - Class A Common Stock"
+OKUR,"OnKure Therapeutics, Inc. - Class A Common Stock"
 OKYO,OKYO Pharma Limited - Ordinary Shares
 OLB,"The OLB Group, Inc. - Common Stock"
 OLED,Universal Display Corporation - Common Stock
@@ -3726,7 +3729,6 @@ RNAC,"Cartesian Therapeutics, Inc. - Common Stock"
 RNAZ,"TransCode Therapeutics, Inc. - Common Stock"
 RNEM,Emerging Markets Equity Select ETF
 RNEW,VanEck Green Infrastructure ETF
-RNLX,Renalytix plc - American Depositary Shares
 RNRG,Global X Renewable Energy Producers ETF
 RNSC,Small Cap US Equity Select ETF
 RNW,ReNew Energy Global plc - Class A Shares
@@ -3748,7 +3750,6 @@ ROP,"Roper Technologies, Inc. - Common Stock"
 ROST,"Ross Stores, Inc. - Common Stock"
 RPAY,Repay Holdings Corporation - Class A Common Stock
 RPD,"Rapid7, Inc. - Common Stock"
-RPHM,"Reneo Pharmaceuticals, Inc. - Class A Common Stock"
 RPID,"Rapid Micro Biosystems, Inc. - Class A Common Stock"
 RPRX,Royalty Pharma plc - Class A Ordinary Shares
 RPTX,Repare Therapeutics Inc. - Common Shares
@@ -3929,6 +3930,7 @@ SKGR,SK Growth Opportunities Corporation - Class A Common Stock
 SKGRU,SK Growth Opportunities Corporation - Unit
 SKGRW,SK Growth Opportunities Corporation - Warrant
 SKIN,The Beauty Health Company - Class A Common Stock
+SKK,SKK Holdings Limited - Common Stock
 SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund
 SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF
 SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock"
@@ -4321,7 +4323,6 @@ TRUG,"TruGolf Holdings, Inc. - Class A Common Stock"
 TRUP,"Trupanion, Inc. - Common Stock"
 TRVG,trivago N.V. - American Depositary Shares
 TRVI,"Trevi Therapeutics, Inc. - Common Stock"
-TRVN,"Trevena, Inc. - Common Stock"
 TSAT,Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares
 TSBK,"Timberland Bancorp, Inc. - Common Stock"
 TSBX,Turnstone Biologics Corp. - Common Stock
@@ -4520,7 +4521,6 @@ VINP,Vinci Partners Investments Ltd. - Class A Common Shares
 VIOT,"Viomi Technology Co., Ltd - American Depositary Shares"
 VIR,"Vir Biotechnology, Inc. - Common Stock"
 VIRC,Virco Manufacturing Corporation - Common Stock
-VIRI,"Virios Therapeutics, Inc. - Common Stock"
 VIRT,"Virtu Financial, Inc. - Class A Common Stock"
 VIRX,"Viracta Therapeutics, Inc. - Common Stock"
 VISL,"Vislink Technologies, Inc. - Common Stock"
@@ -4591,7 +4591,6 @@ VTC,Vanguard Total Corporate Bond ETF
 VTGN,"Vistagen Therapeutics, Inc. - Common Stock"
 VTHR,Vanguard Russell 3000 ETF
 VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares
-VTNR,"Vertex Energy, Inc - Common Stock"
 VTRS,Viatris Inc. - Common Stock
 VTSI,"VirTra, Inc. - Common Stock"
 VTVT,vTv Therapeutics Inc. - Class A Common Stock
@@ -4822,5 +4821,5 @@ ZXZZT,NASDAQ TEST STOCK
 ZYME,Zymeworks Inc. - Common Stock
 ZYXI,"Zynex, Inc. - Common Stock"
 ZZZ,Cyber Hornet S&P 500 and Bitcoin 75/25 Strategy ETF
-File Creation Time: 1004202421:31,
+File Creation Time: 1010202406:00,
 ,
