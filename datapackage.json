@@ -1,82 +1,83 @@
 {
-    "license": "", 
-    "name": "nasdaq-listings", 
-    "resources": [
-        {
-            "format": "csv", 
-            "mediatype": "text/csv", 
-            "name": "nasdaq-listed", 
-            "path": "data/nasdaq-listed.csv", 
-            "schema": {
-                "fields": [
-                    {
-                        "description": "", 
-                        "name": "Symbol", 
-                        "type": "string"
-                    }, 
-                    {
-                        "description": "", 
-                        "name": "Company Name", 
-                        "type": "string"
-                    }, 
-                    {
-                        "description": "", 
-                        "name": "Security Name", 
-                        "type": "string"
-                    }, 
-                    {
-                        "description": "", 
-                        "name": "Market Category", 
-                        "type": "string"
-                    }, 
-                    {
-                        "description": "", 
-                        "name": "Test Issue", 
-                        "type": "string"
-                    }, 
-                    {
-                        "description": "", 
-                        "name": "Financial Status", 
-                        "type": "string"
-                    }, 
-                    {
-                        "description": "", 
-                        "name": "Round Lot Size", 
-                        "type": "number"
-                    }, 
-                    {
-                        "description": "", 
-                        "name": "ETF", 
-                        "type": "string"
-                    }, 
-                    {
-                        "description": "", 
-                        "name": "NextShares", 
-                        "type": "string"
-                    }
-                ]
-            }
-        }, 
-        {
-            "format": "csv", 
-            "mediatype": "text/csv", 
-            "name": "nasdaq-listed-symbols", 
-            "path": "data/nasdaq-listed-symbols.csv", 
-            "schema": {
-                "fields": [
-                    {
-                        "description": "", 
-                        "name": "Symbol", 
-                        "type": "string"
-                    }, 
-                    {
-                        "description": "", 
-                        "name": "Company Name", 
-                        "type": "string"
-                    }
-                ]
-            }
-        }
-    ], 
-    "title": "Nasdaq Listings"
+  "license": "",
+  "name": "nasdaq-listings",
+  "resources": [
+    {
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "nasdaq-listed",
+      "path": "data/nasdaq-listed.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Security Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Market Category",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Test Issue",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Financial Status",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Round Lot Size",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "ETF",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "NextShares",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "nasdaq-listed-symbols",
+      "path": "data/nasdaq-listed-symbols.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "title": "Nasdaq Listings",
+  "collection": "reference-data"
 }
