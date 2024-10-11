@@ -412,10 +412,12 @@ AVGO,Broadcom Inc. - Common Stock
 AVGR,"Avinger, Inc. - Common Stock"
 AVGX,Defiance Daily Target 2X Long AVGO ETF
 AVIR,"Atea Pharmaceuticals, Inc. - common stock"
+AVL,Direxion Daily AVGO Bull 2X Shares
 AVNW,"Aviat Networks, Inc. - Common Stock"
 AVO,"Mission Produce, Inc. - Common Stock"
 AVPT,"AvePoint, Inc. - Class A Common Stock"
 AVPTW,"AvePoint, Inc. - Warrant"
+AVS,Direxion Daily AVGO Bear 1X Shares
 AVT,"Avnet, Inc. - Common Stock"
 AVTE,"Aerovate Therapeutics, Inc. - Common Stock"
 AVTX,"Avalo Therapeutics, Inc. - Common Stock"
@@ -756,6 +758,7 @@ CAKE,The Cheesecake Factory Incorporated - Common Stock
 CALC,"CalciMedica, Inc. - Common Stock"
 CALI,iShares Short-Term California Muni Active ETF
 CALM,"Cal-Maine Foods, Inc. - Common Stock"
+CAMP,CAMP4 Therapeutics Corporation - common stock
 CAMT,Camtek Ltd. - Ordinary Shares
 CAN,Canaan Inc. - American Depositary Shares
 CANC,Tema Oncology ETF
@@ -781,6 +784,7 @@ CATY,Cathay General Bancorp - Common Stock
 CBAN,"Colony Bankcorp, Inc. - Common Stock"
 CBAT,"CBAK Energy Technology, Inc. - Common Stock"
 CBFV,"CB Financial Services, Inc. - Common Stock"
+CBLL,"CeriBell, Inc. - Common Stock"
 CBNK,"Capital Bancorp, Inc. - Common Stock"
 CBRG,Chain Bridge I - Class A Ordinary Shares
 CBRGU,Chain Bridge I - Units
@@ -797,6 +801,7 @@ CCEC,Capital Clean Energy Carriers Corp. - Common Share
 CCEP,Coca-Cola Europacific Partners plc - Ordinary Shares
 CCG,Cheche Group Inc. - Class A Ordinary Shares
 CCGWW,Cheche Group Inc. - Warrant
+CCIRU,Cohen Circle Acquisition Corp. I - Unit
 CCIX,Churchill Capital Corp IX - Ordinary Shares
 CCIXU,Churchill Capital Corp IX - Unit
 CCIXW,Churchill Capital Corp IX - Warrant
@@ -2019,7 +2024,9 @@ HOLO,MicroCloud Hologram Inc. - Ordinary Shares
 HOLOW,MicroCloud Hologram Inc. - Warrant
 HOLX,"Hologic, Inc. - Common Stock"
 HON,Honeywell International Inc. - Common Stock
+HOND,HCM II Acquisition Corp. - Ordinary Shares
 HONDU,HCM II Acquisition Corp. - Unit
+HONDW,HCM II Acquisition Corp. - Warrant
 HONE,"HarborOne Bancorp, Inc. - Common Stock"
 HOOD,"Robinhood Markets, Inc. - Class A Common Stock"
 HOOK,HOOKIPA Pharma Inc. - Common Stock
@@ -2886,8 +2893,10 @@ MTRX,Matrix Service Company - Common Stock
 MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock"
 MTTR,"Matterport, Inc. - Class A Common Stock"
 MU,"Micron Technology, Inc. - Common Stock"
+MUD,Direxion Daily MU Bear 1X Shares
 MULN,"Mullen Automotive, Inc. - Common Stock"
 MURA,Mural Oncology plc - Ordinary Shares
+MUU,Direxion Daily MU Bull 2X Shares
 MVBF,MVB Financial Corp. - Common Stock
 MVIS,"MicroVision, Inc. - Common Stock"
 MVST,"Microvast Holdings, Inc. - Common Stock"
@@ -2924,6 +2933,7 @@ NAMSW,NewAmsterdam Pharma Company N.V. - Warrant
 NAOV,"NanoVibronix, Inc. - Common Stock"
 NARI,"Inari Medical, Inc. - Common Stock"
 NATH,"Nathan's Famous, Inc. - Common Stock"
+NATO,Themes Transatlantic Defense ETF
 NATR,"Nature's Sunshine Products, Inc. - Common Stock"
 NAUT,"Nautilus Biotechnology, Inc. - Common Stock"
 NAVI,Navient Corporation - Common Stock
@@ -3632,6 +3642,7 @@ RCKY,"Rocky Brands, Inc. - Common Stock"
 RCM,R1 RCM Inc. - Common Stock
 RCMT,"RCM Technologies, Inc. - Common Stock"
 RCON,"Recon Technology, Ltd. - Class A Ordinary Shares"
+RDACU,Rising Dragon Acquisition Corp. - Unit
 RDCM,Radcom Ltd. - Ordinary Shares
 RDFN,Redfin Corporation - Common Stock
 RDHL,Redhill Biopharma Ltd. - American Depositary Shares
@@ -3853,8 +3864,11 @@ SEATW,Vivid Seats Inc. - Warrant
 SEDG,"SolarEdge Technologies, Inc. - Common Stock"
 SEED,Origin Agritech Limited - Ordinary Shares
 SEEL,"Seelos Therapeutics, Inc. - Common Stock"
+SEEM,SEI Select Emerging Markets Equity ETF
 SEER,"Seer, Inc. - Class A Common Stock"
 SEIC,SEI Investments Company - Common Stock
+SEIE,SEI Select International Equity ETF
+SEIS,SEI Select Small Cap ETF
 SELF,"Global Self Storage, Inc. - Common Stock"
 SELX,Semilux International Ltd. - Ordinary Shares
 SENEA,Seneca Foods Corp. - Class A Common Stock
@@ -3935,6 +3949,7 @@ SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund
 SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF
 SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock"
 SKYE,"Skye Bioscience, Inc. - Common Stock"
+SKYQ,Sky Quarry Inc. - Common Stock
 SKYT,"SkyWater Technology, Inc. - Common Stock"
 SKYU,ProShares Ultra Cloud Computing
 SKYW,"SkyWest, Inc. - Common Stock"
@@ -4093,6 +4108,7 @@ STCN,"Steel Connect, Inc. - Common Stock"
 STEC,Santech Holdings Limited - American Depositary Shares
 STEP,StepStone Group Inc. - Class A Common Stock
 STER,Sterling Check Corp. - Common Stock
+STFS,Star Fashion Culture Holdings Limited - Class A Ordinary Shares
 STGW,Stagwell Inc. - Class A Common Stock
 STHO,Star Holdings - Shares of Beneficial Interest
 STI,"Solidion Technology, Inc. - Common Stock"
@@ -4420,6 +4436,7 @@ UNIY,WisdomTree Voya Yield Enhanced USD Universal Bond Fund
 UNTY,"Unity Bancorp, Inc. - Common Stock"
 UONE,"Urban One, Inc.  - Class A Common Stock"
 UONEK,"Urban One, Inc.  - Class D Common Stock"
+UPB,"Upstream Bio, Inc. - Common Stock"
 UPBD,"Upbound Group, Inc. - Common Stock"
 UPC,Universe Pharmaceuticals Inc - Ordinary Shares
 UPGR,Xtrackers US Green Infrastructure Select Equity ETF
@@ -4821,5 +4838,5 @@ ZXZZT,NASDAQ TEST STOCK
 ZYME,Zymeworks Inc. - Common Stock
 ZYXI,"Zynex, Inc. - Common Stock"
 ZZZ,Cyber Hornet S&P 500 and Bitcoin 75/25 Strategy ETF
-File Creation Time: 1010202407:00,
+File Creation Time: 1011202411:01,
 ,
