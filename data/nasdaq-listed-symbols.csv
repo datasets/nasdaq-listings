@@ -97,8 +97,8 @@ AEMD,"Aethlon Medical, Inc.","Aethlon Medical, Inc. - Common Stock",S,N,D,100,N,
 AENT,Alliance Entertainment Holding Corporation,Alliance Entertainment Holding Corporation - common stock,S,N,D,100,N,N
 AENTW,Alliance Entertainment Holding Corporation,Alliance Entertainment Holding Corporation - Warrants,S,N,D,100,N,N
 AEP,"American Electric Power Company, Inc.","American Electric Power Company, Inc. - Common Stock",Q,N,N,100,N,N
-AERT,"Aeries Technology, Inc.","Aeries Technology, Inc. - Class A Ordinary Share",S,N,E,100,N,N
-AERTW,"Aeries Technology, Inc.","Aeries Technology, Inc. - Warrant",S,N,E,100,N,N
+AERT,"Aeries Technology, Inc.","Aeries Technology, Inc. - Class A Ordinary Share",S,N,N,100,N,N
+AERTW,"Aeries Technology, Inc.","Aeries Technology, Inc. - Warrant",S,N,N,100,N,N
 AEYE,"AudioEye, Inc.","AudioEye, Inc. - Common Stock",S,N,N,100,N,N
 AFBI,"Affinity Bancshares, Inc.","Affinity Bancshares, Inc. - Common Stock",S,N,N,100,N,N
 AFCG,Advanced Flower Capital Inc.,Advanced Flower Capital Inc. - Common Stock,G,N,N,100,N,N
@@ -213,7 +213,7 @@ ALVO,Alvotech,Alvotech - Ordinary Shares,G,N,N,100,N,N
 ALVOW,Alvotech,Alvotech - Warrant,G,N,N,100,N,N
 ALVR,"AlloVir, Inc.","AlloVir, Inc. - Common Stock",S,N,D,100,N,N
 ALXO,ALX Oncology Holdings Inc.,ALX Oncology Holdings Inc. - Common Stock,Q,N,N,100,N,N
-ALZN,"Alzamend Neuro, Inc.","Alzamend Neuro, Inc. - Common Stock",S,N,D,100,N,N
+ALZN,"Alzamend Neuro, Inc.","Alzamend Neuro, Inc. - Common Stock",S,N,N,100,N,N
 AMAL,Amalgamated Financial Corp.,Amalgamated Financial Corp. - Common Stock,G,N,N,100,N,N
 AMAT,"Applied Materials, Inc.","Applied Materials, Inc. - Common Stock",Q,N,N,100,N,N
 AMBA,"Ambarella, Inc.","Ambarella, Inc. - Ordinary Shares",Q,N,N,100,N,N
@@ -1370,10 +1370,10 @@ EM,Smart Share Global Limited,Smart Share Global Limited - American Depositary S
 EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,iShares J.P. Morgan USD Emerging Markets Bond ETF,G,N,N,100,Y,N
 EMBC,Embecta Corp.,Embecta Corp. - Common Stock,Q,N,N,100,N,N
 EMCB,WisdomTree Emerging Markets Corporate Bond Fund,WisdomTree Emerging Markets Corporate Bond Fund,G,N,N,100,Y,N
-EMCG,Embrace Change Acquisition Corp,Embrace Change Acquisition Corp - Ordinary Shares,G,N,E,100,N,N
-EMCGR,Embrace Change Acquisition Corp,Embrace Change Acquisition Corp - Rights,G,N,E,100,N,N
-EMCGU,Embrace Change Acquisition Corp,Embrace Change Acquisition Corp - Units,G,N,E,100,N,N
-EMCGW,Embrace Change Acquisition Corp,Embrace Change Acquisition Corp - Warrants,G,N,E,100,N,N
+EMCG,Embrace Change Acquisition Corp,Embrace Change Acquisition Corp - Ordinary Shares,G,N,N,100,N,N
+EMCGR,Embrace Change Acquisition Corp,Embrace Change Acquisition Corp - Rights,G,N,N,100,N,N
+EMCGU,Embrace Change Acquisition Corp,Embrace Change Acquisition Corp - Units,G,N,N,100,N,N
+EMCGW,Embrace Change Acquisition Corp,Embrace Change Acquisition Corp - Warrants,G,N,N,100,N,N
 EMEQ,Macquarie Focused Emerging Markets Equity ETF,Macquarie Focused Emerging Markets Equity ETF,G,N,N,100,Y,N
 EMIF,iShares Emerging Markets Infrastructure ETF,iShares Emerging Markets Infrastructure ETF,G,N,N,100,Y,N
 EMKR,EMCORE Corporation,EMCORE Corporation - Common Stock,S,N,N,100,N,N
@@ -2815,7 +2815,7 @@ MNST,Monster Beverage Corporation,Monster Beverage Corporation - Common Stock,Q,
 MNTK,"Montauk Renewables, Inc.","Montauk Renewables, Inc. - Common Stock",S,N,N,100,N,N
 MNTL,Tema Neuroscience and Mental Health ETF,Tema Neuroscience and Mental Health ETF,G,N,N,100,Y,N
 MNTS,Momentus Inc.,Momentus Inc. - Class A Common Stock,S,N,D,100,N,N
-MNTSW,Momentus Inc.,Momentus Inc. - Warrant,S,N,N,100,N,N
+MNTSW,Momentus Inc.,Momentus Inc. - Warrant,S,N,D,100,N,N
 MNTX,"Manitex International, Inc.","Manitex International, Inc. - common stock",S,N,N,100,N,N
 MNY,MoneyHero Limited,MoneyHero Limited - Class A Ordinary Shares,G,N,N,100,N,N
 MNYWW,MoneyHero Limited,MoneyHero Limited - Warrants,G,N,N,100,N,N
@@ -3812,7 +3812,7 @@ SAMG,Silvercrest Asset Management Group Inc.,Silvercrest Asset Management Group 
 SANA,"Sana Biotechnology, Inc.","Sana Biotechnology, Inc. - Common Stock",Q,N,N,100,N,N
 SANG,Sangoma Technologies Corporation,Sangoma Technologies Corporation - Common Shares,Q,N,N,100,N,N
 SANM,Sanmina Corporation,Sanmina Corporation - Common Stock,Q,N,N,100,N,N
-SANW,S&W Seed Company,S&W Seed Company - Common Stock,S,N,D,100,N,N
+SANW,S&W Seed Company,S&W Seed Company - Common Stock,S,N,H,100,N,N
 SARK,Tradr 2X Short Innovation Daily ETF,Tradr 2X Short Innovation Daily ETF,G,N,N,100,Y,N
 SASR,"Sandy Spring Bancorp, Inc.","Sandy Spring Bancorp, Inc. - Common Stock",Q,N,N,100,N,N
 SATL,Satellogic Inc.,Satellogic Inc. - Class A Ordinary Shares,S,N,N,100,N,N
@@ -3871,6 +3871,7 @@ SELF,"Global Self Storage, Inc.","Global Self Storage, Inc. - Common Stock",S,N,
 SELX,Semilux International Ltd.,Semilux International Ltd. - Ordinary Shares,S,N,N,100,N,N
 SENEA,Seneca Foods Corp.,Seneca Foods Corp. - Class A Common Stock,Q,N,N,100,N,N
 SENEB,Seneca Foods Corp.,Seneca Foods Corp. - Class B Common Stock,Q,N,N,100,N,N
+SEPN,"Septerna, Inc.","Septerna, Inc. - Common Stock",G,N,N,100,N,N
 SERA,"Sera Prognostics, Inc.","Sera Prognostics, Inc. - Class A Common Stock",G,N,N,100,N,N
 SERV,Serve Robotics Inc.,Serve Robotics Inc. - Common Stock,S,N,N,100,N,N
 SETM,Sprott Critical Materials ETF,Sprott Critical Materials ETF,G,N,N,100,Y,N
@@ -4684,7 +4685,7 @@ WKEY,WISeKey International Holding Ltd,WISeKey International Holding Ltd - Ameri
 WKHS,"Workhorse Group, Inc.","Workhorse Group, Inc. - Common Stock",S,N,D,100,N,N
 WKSP,"Worksport, Ltd.","Worksport, Ltd. - Common Stock",S,N,D,100,N,N
 WLDN,"Willdan Group, Inc.","Willdan Group, Inc. - Common Stock",G,N,N,100,N,N
-WLDS,Wearable Devices Ltd.,Wearable Devices Ltd. - Ordinary Share,S,N,D,100,N,N
+WLDS,Wearable Devices Ltd.,Wearable Devices Ltd. - Ordinary Share,S,N,N,100,N,N
 WLDSW,Wearable Devices Ltd.,Wearable Devices Ltd. - Warrant,S,N,N,100,N,N
 WLFC,Willis Lease Finance Corporation,Willis Lease Finance Corporation - Common Stock,G,N,N,100,N,N
 WLGS,"Wang & Lee Group, Inc.","Wang & Lee Group, Inc. - Ordinary Shares",S,N,N,100,N,N
@@ -4699,6 +4700,7 @@ WOOF,"Petco Health and Wellness Company, Inc.","Petco Health and Wellness Compan
 WORX,SCWorx Corp.,SCWorx Corp. - Common Stock,S,N,N,100,N,N
 WPRT,Westport Fuel Systems Inc,Westport Fuel Systems Inc - Common Shares,Q,N,N,100,N,N
 WRAP,"Wrap Technologies, Inc.","Wrap Technologies, Inc. - Common Stock",S,N,N,100,N,N
+WRD,WeRide Inc.,WeRide Inc. - American Depositary Shares,G,N,N,100,N,N
 WRLD,World Acceptance Corporation,World Acceptance Corporation - Common Stock,Q,N,N,100,N,N
 WRND,NYLI Global Equity R&D Leaders ETF,NYLI Global Equity R&D Leaders ETF,G,N,N,100,Y,N
 WSBC,"WesBanco, Inc.","WesBanco, Inc. - Common Stock",Q,N,N,100,N,N
@@ -4837,5 +4839,5 @@ ZXZZT,NASDAQ TEST STOCK,NASDAQ TEST STOCK,G,Y,N,100,,N
 ZYME,Zymeworks Inc.,Zymeworks Inc. - Common Stock,Q,N,N,100,N,N
 ZYXI,"Zynex, Inc.","Zynex, Inc. - Common Stock",Q,N,N,100,N,N
 ZZZ,Cyber Hornet S&P 500 and Bitcoin 75/25 Strategy ETF,Cyber Hornet S&P 500 and Bitcoin 75/25 Strategy ETF,G,N,N,100,Y,N
-File Creation Time: 1024202415:41,,,,,,,,
+File Creation Time: 1025202410:01,,,,,,,,
 ,,,,,,,,
