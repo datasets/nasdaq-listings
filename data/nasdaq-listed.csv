@@ -224,7 +224,7 @@ ALKT,"Alkami Technology, Inc. - Common Stock"
 ALLO,"Allogene Therapeutics, Inc. - Common Stock"
 ALLR,"Allarity Therapeutics, Inc. - Common stock"
 ALLT,Allot Ltd. - Ordinary Shares
-ALLW,SPDR Bridgewater All Weather ETF
+ALLW,State Street Bridgewater All Weather ETF
 ALM,Almonty Industries Inc. - Common Shares
 ALMS,Alumis Inc. - Common Stock
 ALMU,"Aeluma, Inc. - Common Stock"
@@ -283,7 +283,6 @@ AMZU,Direxion Daily AMZN Bull 2X Shares
 AMZZ,GraniteShares 2x Long AMZN Daily ETF
 ANAB,"AnaptysBio, Inc. - Common Stock"
 ANDE,"The Andersons, Inc. - Common Stock"
-ANEB,"Anebulo Pharmaceuticals, Inc. - Common Stock"
 ANEL,Defiance Daily Target 2x Long ANET ETF
 ANGH,Anghami Inc. - Ordinary Shares
 ANGHW,Anghami Inc. - Warrants
@@ -1300,7 +1299,7 @@ DCX,Digital Currency X Technology Inc. - Class A Ordinary Shares
 DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares"
 DDIV,First Trust Dorsey Wright Momentum & Dividend ETF
 DDOG,"Datadog, Inc. - Class A Common Stock"
-DECO,SPDR Galaxy Digital Asset Ecosystem ETF
+DECO,State Street Galaxy Digital Asset Ecosystem ETF
 DEFT,"Defi Technologies, Inc. - Common Stock"
 DEMZ,Democratic Large Cap Core ETF
 DERM,Journey Medical Corporation - Common Stock
@@ -1308,7 +1307,7 @@ DEVS,DevvStream Corp. - Common Stock
 DFDV,DeFi Development Corp. - Common Stock
 DFDVW,DeFi Development Corp. - Warrant
 DFGP,Dimensional Global Core Plus Fixed Income ETF
-DFGX,Dimensional Global ex US Core Fixed Income ETF
+DFGX,Dimensional International Core Fixed Income ETF
 DFLI,Dragonfly Energy Holdings Corp - Common Stock
 DFLIW,Dragonfly Energy Holdings Corp - Warrant
 DFNS,T3 Defense Inc. - Common Stock
@@ -1352,7 +1351,6 @@ DMAA,Drugs Made In America Acquisition Corp. - Ordinary Shares
 DMAAR,Drugs Made In America Acquisition Corp. - Rights
 DMAAU,Drugs Made In America Acquisition Corp. - Units
 DMAC,DiaMedica Therapeutics Inc. - Common Stock
-DMAT,Global X Disruptive Materials ETF
 DMII,Drugs Made In America Acquisition II Corp. - Ordinary Shares
 DMIIR,Drugs Made In America Acquisition II Corp. - Right
 DMIIU,Drugs Made In America Acquisition II Corp. - Unit
@@ -1457,6 +1455,7 @@ DYORU,Insight Digital Partners II - Units
 DYORW,Insight Digital Partners II - Warrants
 DYTA,SGI Dynamic Tactical ETF
 EA,Electronic Arts Inc. - Common Stock
+EART,Global X Rare Earth & Critical Materials ETF
 EASY,Liberty One Defensive Dividend Growth ETF
 EBAY,eBay Inc. - Common Stock
 EBC,"Eastern Bankshares, Inc. - Common Stock"
@@ -1595,7 +1594,6 @@ ETHA,iShares Ethereum Trust ETF
 ETHM,Dynamix Corporation - Class A Ordinary Share
 ETHMU,Dynamix Corporation - Unit
 ETHMW,Dynamix Corporation - Warrant
-ETHZ,ETHZilla Corporation - Common Stock
 ETON,"Eton Pharmaceuticals, Inc. - Common Stock"
 ETOR,eToro Group Ltd. - Class A Common Shares
 ETRL,GraniteShares 2x Long ETOR Daily ETF
@@ -1842,6 +1840,7 @@ FRHC,Freedom Holding Corp. - Common Stock
 FRME,First Merchants Corporation - Common Stock
 FRMEP,"First Merchants Corporation - Depository Shares, each representing a 1/100th interest in a share of 7.50% Non-Cumulative Perpetual Preferred Stock, A"
 FRMI,Fermi Inc. - Common Stock
+FRMM,"Forum Markets, Incorporated - Common Stock"
 FROG,JFrog Ltd. - Ordinary shares
 FRPH,"FRP Holdings, Inc. - Common Stock"
 FRPT,"Freshpet, Inc. - Common Stock"
@@ -1969,7 +1968,7 @@ GEME,Pacific North of South EM Equity Active ETF
 GEMG,Leverage Shares 2X Long GEMI Daily ETF
 GEMI,"Gemini Space Station, Inc. - Class A Common Stock"
 GEN,Gen Digital Inc. - Common Stock
-GENB,"Generate Biomedicines, Inc. - Common Stock "
+GENB,"Generate Biomedicines, Inc. - Common Stock"
 GENK,"GEN Restaurant Group, Inc. - Class A Common Stock"
 GENVR,Gen Digital Inc. - Contingent Value Rights
 GEOS,Geospace Technologies Corporation - Common Stock
@@ -2035,7 +2034,6 @@ GLUE,"Monte Rosa Therapeutics, Inc. - Common Stock"
 GLXG,Galaxy Payroll Group Limited - Class A Ordinary Shares
 GLXY,Galaxy Digital Inc. - Class A common stock
 GMAB,Genmab A/S - American Depositary Shares
-GMGI,"Golden Matrix Group, Inc. - Common Stock"
 GMHS,Gamehaus Holdings Inc. - Class A Ordinary Shares
 GMM,Global Mofy AI Limited  - Class A Ordinary Shares
 GNLN,"Greenlane Holdings, Inc. - Class A Common Stock"
@@ -2180,7 +2178,7 @@ HCWB,HCW Biologics Inc. - Common Stock
 HDL,SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares
 HDSN,"Hudson Technologies, Inc. - Common Stock"
 HEAL,Global X HealthTech ETF
-HECO,SPDR Galaxy Hedged Digital Asset Ecosystem ETF
+HECO,State Street Galaxy Hedged Digital Asset Ecosystem ETF
 HELE,Helen of Troy Limited - Common Stock
 HELP,Cybin Inc. - Common Stock
 HEPS,D-Market Electronic Services & Trading - American Depositary Shares
@@ -2941,7 +2939,6 @@ MBAVU,M3-Brigade Acquisition V Corp. - Units
 MBAVW,M3-Brigade Acquisition V Corp. - Warrant
 MBB,iShares MBS ETF
 MBBC,"Marathon Bancorp, Inc. - Common Stock"
-MBCN,Middlefield Banc Corp. - Common Stock
 MBIN,Merchants Bancorp - Common Stock
 MBINL,"Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value"
 MBINM,"Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Reset Series D Non-Cumulative Perpetual Preferred Stock"
@@ -2985,7 +2982,7 @@ MDIA,Mediaco Holding Inc. - Class A Common Stock
 MDIV,Multi-Asset Diversified Income Index Fund
 MDLN,Medline Inc. - Class A common stock
 MDLZ,"Mondelez International, Inc. - Class A Common Stock"
-MDRR,"Medalist Diversified REIT, Inc. - Common Stock"
+MDRR,"Medalist Diversified, Inc. - Common Stock"
 MDWD,MediWound Ltd. - Ordinary Shares
 MDXG,"MiMedx Group, Inc - Common Stock"
 MDXH,MDxHealth SA - Ordinary Shares
@@ -3112,6 +3109,7 @@ MRAM,"Everspin Technologies, Inc. - Common Stock"
 MRBK,Meridian Corporation - Common Stock
 MRCC,Monroe Capital Corporation - Closed End Fund
 MRCY,Mercury Systems Inc - Common Stock
+MRDN,Meridian Holdings Inc. - Common Stock
 MREO,Mereo BioPharma Group plc - American Depositary Shares
 MRKR,"Marker Therapeutics, Inc. - Common Stock"
 MRM,MEDIROM Healthcare Technologies Inc. - American Depositary Share
@@ -3980,7 +3978,6 @@ RANGR,Range Capital Acquisition Corp. - Rights
 RANGU,Range Capital Acquisition Corp. - Units
 RANI,"Rani Therapeutics Holdings, Inc. - Class A Common Stock"
 RAPP,"Rapport Therapeutics, Inc. - Common Stock"
-RAPT,"RAPT Therapeutics, Inc. - Common Stock"
 RARE,Ultragenyx Pharmaceutical Inc. - Common Stock
 RAUS,RACWI US ETF
 RAVE,"Rave Restaurant Group, Inc. - Common Stock"
@@ -4109,7 +4106,6 @@ RMSGW,Real Messenger Corporation - Warrants
 RMTI,"Rockwell Medical, Inc. - Common Stock"
 RNA,"Atrium Therapeutics, Inc. - Common Stock"
 RNAC,"Cartesian Therapeutics, Inc. - Common Stock"
-RNAM,"Avidity Biosciences, Inc. - Common Stock"
 RNAZ,"TransCode Therapeutics, Inc. - Common Stock"
 RNEM,Emerging Markets Equity Select ETF
 RNGT,Range Capital Acquisition Corp II - Class A Ordinary Shares
@@ -4338,7 +4334,7 @@ SJCP,SanJac Alpha Core Plus Bond ETF
 SJLD,SanJac Alpha Low Duration ETF
 SKBL,Skyline Builders Group Holding Limited - Class A Ordinary Shares
 SKIN,The Beauty Health Company - Class A Common Stock
-SKK,SKK Holdings Limited - Ordinary Shares
+SKK,SKK Holdings Limited - Class A Ordinary Shares
 SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund
 SKRE,Tuttle Capital Daily 2X Inverse Regional Banks ETF
 SKWD,"Skyward Specialty Insurance Group, Inc. - Common Stock"
@@ -4575,7 +4571,9 @@ SVCC,Stellar V Capital Corp. - Class A Ordinary Shares
 SVCCU,Stellar V Capital Corp. - Unit
 SVCCW,Stellar V Capital Corp. - Warrant
 SVCO,"Silvaco Group, Inc. - Common Stock"
+SVIV,Spring Valley Acquisition Corp. IV - Class A Ordinary Shares
 SVIVU,Spring Valley Acquisition Corp. IV - Units
+SVIVW,Spring Valley Acquisition Corp. IV - Warrants
 SVRA,"Savara, Inc. - Common Stock"
 SVRE,SaverOne 2014 Ltd. - American Depositary Shares
 SVREW,SaverOne 2014 Ltd. - Warrant
@@ -4671,7 +4669,7 @@ TEAD,Teads Holding Co. - Common Stock
 TEAM,Atlassian Corporation  - Class A Common Stock
 TECH,Bio-Techne Corp - Common Stock
 TECX,"Tectonic Therapeutic, Inc. - Common Stock"
-TEKX,SPDR Galaxy Transformative Tech Accelerators ETF
+TEKX,State Street Galaxy Transformative Tech Accelerators ETF
 TEKY,Lazard Next Gen Technologies ETF
 TELA,"TELA Bio, Inc. - Common stock"
 TELO,"Telomir Pharmaceuticals, Inc. - Common Stock"
@@ -5363,5 +5361,5 @@ ZXYZ.A,Nasdaq Symbology Test Common Stock
 ZXZZT,NASDAQ TEST STOCK
 ZYBT,Zhengye Biotechnology Holding Limited - Ordinary Shares
 ZYME,Zymeworks Inc. - Common Stock
-File Creation Time: 0227202621:31,
+File Creation Time: 0304202606:00,
 ,
