@@ -55,7 +55,8 @@
             "type": "string"
           }
         ]
-      }
+      },
+      "description": "List of all securities listed on the NASDAQ exchange with their ticker symbol, company name, security name, market category, financial status, ETF flag, and round lot size."
     },
     {
       "format": "csv",
@@ -75,7 +76,8 @@
             "type": "string"
           }
         ]
-      }
+      },
+      "description": "Simplified list of all NASDAQ-listed securities with just the ticker symbol and company name."
     }
   ],
   "title": "Nasdaq Listings",
