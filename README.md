@@ -7,12 +7,13 @@ List of companies in the NASDAQ exchanges.
 Data and documentation are available on [NASDAQ's official webpage](http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs). Data is updated regularly on the FTP site.
 
 The file used in this repository:
-* [NASDAQ Listed Securities](ftp://ftp.nasdaqtrader.com/symboldirectory/nasdaqlisted.txt)
+* [NASDAQ Listed Securities](https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt)
 
 Notes:
 
-* Company Name is a parsed field using the Security Name field.
-* Test Listings are excluded in the final dataset
+* Company Name is a parsed field using the Security Name field (text before the first ' - ').
+* Test listings (Test Issue = Y) are **included** in the dataset and can be identified by the `Test Issue` field.
+* A "File Creation Time" footer row from the NASDAQ source file appears at the end of both CSVs and should be ignored when processing the data.
 
 ## Preparation
 
