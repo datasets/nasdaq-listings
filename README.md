@@ -4,7 +4,7 @@ List of companies in the NASDAQ exchanges.
 
 ## Data
 
-Data and documentation are available on [NASDAQ's official webpage](http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs). Data is updated regularly on the FTP site.
+Data and documentation are available on [NASDAQ's official webpage](https://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs). Data is updated regularly.
 
 The file used in this repository:
 * [NASDAQ Listed Securities](https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt)
