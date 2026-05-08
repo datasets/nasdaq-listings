@@ -1,57 +1,38 @@
 {
-  "license": "",
   "name": "nasdaq-listings",
+  "title": "Nasdaq Listings",
+  "description": "List of companies currently listed on the NASDAQ stock exchange, including ticker symbol, security name, market category, financial status, ETF flag, and related metadata. Data is sourced from NASDAQ's official symbol directory and updated monthly.",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "https://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASDAQ Symbol Directory",
+      "path": "https://www.nasdaqtrader.com/dynamic/symdir/nasdaqlisted.txt",
+      "title": "NASDAQ Listed Securities"
+    }
+  ],
   "resources": [
     {
       "format": "csv",
       "mediatype": "text/csv",
       "name": "nasdaq-listed",
       "path": "data/nasdaq-listed.csv",
+      "description": "A simplified listing of NASDAQ securities containing only the ticker symbol and full security name.",
       "schema": {
         "fields": [
           {
-            "description": "",
+            "description": "Ticker symbol of the security.",
             "name": "Symbol",
             "type": "string"
           },
           {
-            "description": "",
-            "name": "Company Name",
-            "type": "string"
-          },
-          {
-            "description": "",
+            "description": "Full name of the security, including issuer and security type (e.g. 'Common Stock', 'Warrant').",
             "name": "Security Name",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "Market Category",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "Test Issue",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "Financial Status",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "Round Lot Size",
-            "type": "number"
-          },
-          {
-            "description": "",
-            "name": "ETF",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "NextShares",
             "type": "string"
           }
         ]
@@ -62,22 +43,63 @@
       "mediatype": "text/csv",
       "name": "nasdaq-listed-symbols",
       "path": "data/nasdaq-listed-symbols.csv",
+      "description": "Full listing of NASDAQ securities with all available metadata. Company Name is derived by parsing the Security Name field. Includes NASDAQ test listings (Test Issue = Y). A 'File Creation Time' footer row from the source file appears at the end and should be ignored.",
       "schema": {
         "fields": [
           {
-            "description": "",
+            "description": "Ticker symbol of the security.",
             "name": "Symbol",
             "type": "string"
           },
           {
-            "description": "",
+            "description": "Company name, parsed from the first segment of the Security Name field (before ' - ').",
             "name": "Company Name",
             "type": "string"
+          },
+          {
+            "description": "Full name of the security, including issuer and security type (e.g. 'Common Stock', 'Warrant').",
+            "name": "Security Name",
+            "type": "string"
+          },
+          {
+            "description": "NASDAQ market tier: Q = Global Select Market, G = Global Market, S = Capital Market.",
+            "name": "Market Category",
+            "type": "string"
+          },
+          {
+            "description": "Whether the security is a NASDAQ test listing (Y = test issue, N = normal listing).",
+            "name": "Test Issue",
+            "type": "boolean",
+            "trueValues": ["Y"],
+            "falseValues": ["N"]
+          },
+          {
+            "description": "Financial status code indicating delinquency or deficiency. N = Normal; other codes indicate various deficiency categories as defined by NASDAQ.",
+            "name": "Financial Status",
+            "type": "string"
+          },
+          {
+            "description": "Standard round-lot trading size for the security (number of shares).",
+            "name": "Round Lot Size",
+            "type": "integer"
+          },
+          {
+            "description": "Whether the security is an Exchange-Traded Fund (Y = ETF, N = not an ETF).",
+            "name": "ETF",
+            "type": "boolean",
+            "trueValues": ["Y"],
+            "falseValues": ["N"]
+          },
+          {
+            "description": "Whether the security is a NextShares exchange-traded managed fund (Y = NextShares, N = not a NextShares).",
+            "name": "NextShares",
+            "type": "boolean",
+            "trueValues": ["Y"],
+            "falseValues": ["N"]
           }
         ]
       }
     }
   ],
-  "title": "Nasdaq Listings",
   "collection": "stock-market-data"
 }
